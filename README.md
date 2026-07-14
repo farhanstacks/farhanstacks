@@ -9,13 +9,13 @@ Building high-performance Android & iOS applications with React Native, scalable
 </p>
 
 <p align="center">
-  <a href="https://farhaanx.vercel.app">
+  <a href="https://farhanstacks.vercel.app">
     <img src="https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/farhaanx/">
+  <a href="https://www.linkedin.com/in/farhanstacks/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/farhaanx">
+  <a href="https://github.com/farhanstacks">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -103,7 +103,7 @@ Instead of filling this profile with long project descriptions, I've documented 
 
 ### 👉 View complete case studies, screenshots, App Store & Play Store links
 
-## 🌐 https://farhaanx.vercel.app
+## 🌐 https://farhanstacks.vercel.app
 
 ---
 
@@ -122,33 +122,33 @@ Instead of filling this profile with long project descriptions, I've documented 
 # 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=farhaanx&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhaanx&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=farhanstacks&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanstacks&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=farhaanx&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanstacks&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=farhaanx&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=farhanstacks&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farhaanx&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanstacks&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=farhaanx&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=farhanstacks&style=for-the-badge"/>
 </p>
 
 ---
 
 # 📫 Connect With Me
 
-- 🌐 Portfolio: https://farhaanx.vercel.app
-- 💼 LinkedIn: https://www.linkedin.com/in/farhaanx/
-- 💻 GitHub: https://github.com/farhaanx
+- 🌐 Portfolio: https://farhanstacks.vercel.app
+- 💼 LinkedIn: https://www.linkedin.com/in/farhanstacks/
+- 💻 GitHub: https://github.com/farhanstacks
 
 ---
 
