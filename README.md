@@ -18,6 +18,12 @@ Building high-performance Android & iOS applications with React Native, scalable
 </p>
 
 <p align="center">
+  <a href="mailto:farhanstacks1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-farhanstacks1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=35&lines=React+Native+Developer;Full+Stack+Mobile+Engineer;Building+Production+Ready+Apps;100K%2B+Users+Worldwide;Always+Learning+New+Technologies"
     style="display:block;margin:auto;"
