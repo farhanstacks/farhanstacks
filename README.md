@@ -63,7 +63,7 @@ Building high-performance Android & iOS applications with React Native, scalable
 ## Mobile
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,firebase"/>
+<img src="https://skillicons.dev/icons?i=react,flutter"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48"/>
 </p>
@@ -78,7 +78,7 @@ Building high-performance Android & iOS applications with React Native, scalable
 ## Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,django"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="48"/>
 </p>
@@ -92,10 +92,15 @@ Building high-performance Android & iOS applications with React Native, scalable
 ## Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,idea,pycharm,postman"/>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,idea,androidstudio,pycharm,postman"/>
 </p>
 
----
+## AI Tools
+
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cursor,claude,chatgpt,gemini,deepseek"/>
+<img src="https://img.shields.io/badge/Anto_Gravity-000000?style=for-the-badge&logoColor=white"/>
+</p>
 
 # 🚀 Featured Work
 
