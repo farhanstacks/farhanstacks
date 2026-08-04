@@ -168,7 +168,7 @@ Instead of filling this profile with long project descriptions, I've documented 
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile! ⭐
 
 If you're interested in collaborating on mobile apps, AI solutions, or full-stack products, feel free to connect.
 
