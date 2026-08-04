@@ -116,10 +116,6 @@ Instead of filling this profile with long project descriptions, I've documented 
 - 🎮 Gaming Platform
 - 🌐 Social Networking Application
 
-### 👉 View complete case studies, screenshots, App Store & Play Store links
-
-## 🌐 https://farhanstacks.vercel.app
-
 ---
 
 # 💼 Experience
