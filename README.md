@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'm **Farhan Shaukat**
+# Hi there, I'm **Farhan Shaukat**
 
 ### Senior React Native Developer • Full Stack Mobile Engineer • AI Enthusiast
 
