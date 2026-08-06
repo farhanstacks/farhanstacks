@@ -41,7 +41,7 @@ Building high-performance Android & iOS applications with React Native, scalable
 
 ---
 
-# 👨🏻‍💻 About Me
+# About Me
 
 - 🚀 3+ years of professional software development experience.
 - 📱 Specialized in React Native mobile applications.
@@ -52,7 +52,7 @@ Building high-performance Android & iOS applications with React Native, scalable
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ## Languages
 
@@ -102,7 +102,7 @@ Building high-performance Android & iOS applications with React Native, scalable
 <img src="https://img.shields.io/badge/Anti_Gravity-000000?style=for-the-badge&logoColor=white"/>
 </p>
 
-# 🚀 Featured Work
+# Featured Work
 
 Instead of filling this profile with long project descriptions, I've documented my best work in my portfolio.
 
@@ -118,7 +118,7 @@ Instead of filling this profile with long project descriptions, I've documented 
 
 ---
 
-# 💼 Experience
+# Experience
 
 | Company | Role |
 |---------|------|
@@ -130,7 +130,7 @@ Instead of filling this profile with long project descriptions, I've documented 
 
 ---
 
-# 📈 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=farhanstacks&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -155,7 +155,7 @@ Instead of filling this profile with long project descriptions, I've documented 
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 - 🌐 Portfolio: https://farhanstacks.vercel.app
 - 💼 LinkedIn: https://www.linkedin.com/in/farhanstacks/
@@ -164,7 +164,7 @@ Instead of filling this profile with long project descriptions, I've documented 
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
+### Thanks for visiting my profile!
 
 If you're interested in collaborating on mobile apps, AI solutions, or full-stack products, feel free to connect.
 
