@@ -48,7 +48,7 @@ Building high-performance Android & iOS applications with React Native, scalable
 - Built production apps for Android & iOS.
 - Applications used by **100K+ users worldwide**.
 - Passionate about AI, automation, performance optimization, and clean architecture.
-- 🌍 Experienced with startups, enterprise software, and freelance projects.
+- Experienced with startups, enterprise software, and freelance projects.
 
 ---
 
