@@ -43,11 +43,11 @@ Building high-performance Android & iOS applications with React Native, scalable
 
 # About Me
 
-- 🚀 3+ years of professional software development experience.
-- 📱 Specialized in React Native mobile applications.
-- 🍎 Built production apps for Android & iOS.
-- 🔥 Applications used by **100K+ users worldwide**.
-- 🤖 Passionate about AI, automation, performance optimization, and clean architecture.
+- 3+ years of professional software development experience.
+- Specialized in React Native mobile applications.
+- Built production apps for Android & iOS.
+- Applications used by **100K+ users worldwide**.
+- Passionate about AI, automation, performance optimization, and clean architecture.
 - 🌍 Experienced with startups, enterprise software, and freelance projects.
 
 ---
