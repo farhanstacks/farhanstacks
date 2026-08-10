@@ -110,8 +110,8 @@ Instead of filling this profile with long project descriptions, I've documented 
 
 - News Platform (100K+ Downloads)
 - Restaurant Ordering Platform
-- 👨‍💼 Enterprise HR Management System
-- 🏕 Camping & Booking Platform
+- Enterprise HR Management System
+- Camping & Booking Platform
 - 🚕 AI-powered Service Marketplace
 - 🎮 Gaming Platform
 - 🌐 Social Networking Application
