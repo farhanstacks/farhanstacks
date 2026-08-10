@@ -114,7 +114,7 @@ Instead of filling this profile with long project descriptions, I've documented 
 - Camping & Booking Platform
 - AI-powered Service Marketplace
 - Gaming Platform
-- 🌐 Social Networking Application
+- Social Networking Application
 
 ---
 
