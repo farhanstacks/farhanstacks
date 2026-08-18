@@ -129,13 +129,6 @@ Instead of filling this profile with long project descriptions, I've documented 
 | Gameotivity LLC | React Native Full Stack Developer |
 
 ---
-
-
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=farhanstacks&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanstacks&theme=tokyo-night&hide_border=true"/>
 </p>
