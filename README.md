@@ -128,11 +128,6 @@ Instead of filling this profile with long project descriptions, I've documented 
 | Smart Kalls Inc. | Mobile App Developer |
 | Gameotivity LLC | React Native Full Stack Developer |
 
----
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanstacks&theme=tokyo-night&hide_border=true"/>
-</p>
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=farhanstacks&style=for-the-badge"/>
 </p>
