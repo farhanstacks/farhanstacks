@@ -130,9 +130,7 @@ Instead of filling this profile with long project descriptions, I've documented 
 
 ---
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanstacks&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=farhanstacks&theme=tokyonight&no-frame=true&margin-w=15"/>
