@@ -63,7 +63,6 @@ Building high-performance Android & iOS applications with React Native, scalable
 ## Mobile
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,flutter"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48"/>
 </p>
