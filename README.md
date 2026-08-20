@@ -101,7 +101,7 @@ Building high-performance Android & iOS applications with React Native, scalable
 <img src="https://img.shields.io/badge/Anti_Gravity-000000?style=for-the-badge&logoColor=white"/>
 </p>
 
-# Featured Work
+# Featured Work & Achievements
 
 Instead of filling this profile with long project descriptions, I've documented my best work in my portfolio.
 
