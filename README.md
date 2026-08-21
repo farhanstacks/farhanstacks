@@ -91,7 +91,7 @@ Building high-performance Android & iOS applications with React Native, scalable
 ## Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,idea,androidstudio,pycharm,postman"/>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,androidstudio,pycharm,postman"/>
 </p>
 
 ## AI Tools
