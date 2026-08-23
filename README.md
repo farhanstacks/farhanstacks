@@ -85,7 +85,7 @@ Building high-performance Android & iOS applications with React Native, scalable
 ## Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase,supabase,redis"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,redis"/>
 </p>
 
 ## Tools
