@@ -110,7 +110,7 @@ Instead of filling this profile with long project descriptions, I've documented 
 - Pencil News (100K+ Downloads)
 - Ranchers Cafe
 - Daftar Pro
-- Camping & Booking Platform
+- Campsites
 - AI-powered Service Marketplace
 - Gaming Platform
 - Social Networking Application
