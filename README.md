@@ -108,7 +108,7 @@ Instead of filling this profile with long project descriptions, I've documented 
 ### Recent Projects
 
 - Pencil News (100K+ Downloads)
-- Restaurant Ordering Platform
+- Ranchers Cafe
 - Enterprise HR Management System
 - Camping & Booking Platform
 - AI-powered Service Marketplace
