@@ -109,7 +109,7 @@ Instead of filling this profile with long project descriptions, I've documented 
 
 - Pencil News (100K+ Downloads)
 - Ranchers Cafe
-- Enterprise HR Management System
+- Daftar Pro
 - Camping & Booking Platform
 - AI-powered Service Marketplace
 - Gaming Platform
