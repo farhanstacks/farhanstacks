@@ -107,7 +107,7 @@ Instead of filling this profile with long project descriptions, I've documented 
 
 ### Recent Projects
 
-- News Platform (100K+ Downloads)
+- Pencil News (100K+ Downloads)
 - Restaurant Ordering Platform
 - Enterprise HR Management System
 - Camping & Booking Platform
