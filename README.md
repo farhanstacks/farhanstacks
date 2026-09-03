@@ -111,7 +111,7 @@ Instead of filling this profile with long project descriptions, I've documented 
 - Ranchers Cafe
 - Daftar Pro
 - Campsites
-- AI-powered Service Marketplace
+- Terresa
 - Gaming Platform
 - Social Networking Application
 
