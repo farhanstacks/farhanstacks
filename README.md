@@ -112,7 +112,7 @@ Instead of filling this profile with long project descriptions, I've documented 
 - Daftar Pro
 - Campsites
 - Terresa
-- Gaming Platform
+- Gameotivity
 - Social Networking Application
 
 ---
