@@ -121,7 +121,6 @@ Instead of filling this profile with long project descriptions, I've documented 
 
 | Company | Role |
 |---------|------|
-| Infix Systems | React Native Developer |
 | DevGate | React Native Developer |
 | Codistan Ventures | Cross Platform App Developer |
 | Smart Kalls Inc. | Mobile App Developer |
