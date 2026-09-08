@@ -111,7 +111,10 @@ Instead of filling this profile with long project descriptions, I've documented 
 - Ranchers Cafe
 - Daftar Pro
 - Campsites
+- Fusaty
+- Alloy Forge
 - Gameotivity
+
 
 ---
 
