@@ -124,8 +124,8 @@ Instead of filling this profile with long project descriptions, I've documented 
 | Infix Systems | React Native Developer |
 | DevGate Consultancy | React Native Developer |
 | Codistan Ventures | Cross Platform App Developer |
-| Smart Kalls Inc. | Mobile App Developer |
-| Gameotivity LLC | React Native Full Stack Developer |
+| Smart Kalls Inc | Mobile App Developer |
+| Gameotivity | React Native Full Stack Developer |
 
 ---
 
