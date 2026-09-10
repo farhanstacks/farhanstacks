@@ -105,17 +105,56 @@ Building high-performance Android & iOS applications with React Native, scalable
 
 Instead of filling this profile with long project descriptions, I've documented my best work in my portfolio.
 
-### Recent Projects
+# 🚀 Featured Projects
 
-- Pencil News (100K+ Downloads)
-- Ranchers Cafe
-- Daftar Pro
-- Campsites
-- Fusaty
-- Alloy Forge
+<p>
+  <a href="YOUR_PROJECT_URL">
+    <strong>🎥 Retina</strong>
+  </a>
+  — Cinematic Mac screen recorder with auto-zoom, smooth cursor movement, and 4K recording.
+</p>
 
+<p>
+  <a href="YOUR_PROJECT_URL">
+    <strong>📱 Pencil News</strong>
+  </a>
+  — Modern news application serving 100K+ users with a fast and scalable React Native experience.
+</p>
 
----
+<p>
+  <a href="YOUR_PROJECT_URL">
+    <strong>☕ Ranchers Cafe</strong>
+  </a>
+  — Mobile ordering and restaurant management experience built with React Native.
+</p>
+
+<p>
+  <a href="YOUR_PROJECT_URL">
+    <strong>📋 Daftar Pro</strong>
+  </a>
+  — Productivity and task management application designed around a simple, intuitive mobile experience.
+</p>
+
+<p>
+  <a href="YOUR_PROJECT_URL">
+    <strong>🏕️ Campsites</strong>
+  </a>
+  — Campsite discovery and booking experience with location-based features and a smooth mobile UI.
+</p>
+
+<p>
+  <a href="YOUR_PROJECT_URL">
+    <strong>🚗 Fusaty</strong>
+  </a>
+  — Full-stack mobile platform combining real-time features, scalable APIs, and a polished React Native interface.
+</p>
+
+<p>
+  <a href="YOUR_PROJECT_URL">
+    <strong>⚙️ Alloy Forge</strong>
+  </a>
+  — Production-focused application built with modern full-stack technologies and scalable architecture.
+</p>
 
 # Experience
 
