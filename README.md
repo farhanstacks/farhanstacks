@@ -108,52 +108,39 @@ Instead of filling this profile with long project descriptions, I've documented 
 # 🚀 Featured Projects
 
 <p>
-  <a href="YOUR_PROJECT_URL">
-    <strong>🎥 Retina</strong>
-  </a>
-  — Cinematic Mac screen recorder with auto-zoom, smooth cursor movement, and 4K recording.
+  <span style="font-size:20px;">🎥</span>
+  <a href="YOUR_PROJECT_URL"><strong>Pencil News</strong></a>
+  — News application with 100K+ downloads and a high-performance React Native experience.
 </p>
 
 <p>
-  <a href="YOUR_PROJECT_URL">
-    <strong>📱 Pencil News</strong>
-  </a>
-  — Modern news application serving 100K+ users with a fast and scalable React Native experience.
+  <span style="font-size:20px;">☕</span>
+  <a href="YOUR_PROJECT_URL"><strong>Ranchers Cafe</strong></a>
+  — Restaurant ordering and customer experience built for Android and iOS.
 </p>
 
 <p>
-  <a href="YOUR_PROJECT_URL">
-    <strong>☕ Ranchers Cafe</strong>
-  </a>
-  — Mobile ordering and restaurant management experience built with React Native.
+  <span style="font-size:20px;">📋</span>
+  <a href="YOUR_PROJECT_URL"><strong>Daftar Pro</strong></a>
+  — Productivity application designed around tasks, organization, and simplicity.
 </p>
 
 <p>
-  <a href="YOUR_PROJECT_URL">
-    <strong>📋 Daftar Pro</strong>
-  </a>
-  — Productivity and task management application designed around a simple, intuitive mobile experience.
+  <span style="font-size:20px;">🏕️</span>
+  <a href="YOUR_PROJECT_URL"><strong>Campsites</strong></a>
+  — Mobile campsite discovery and booking platform with location-based experiences.
 </p>
 
 <p>
-  <a href="YOUR_PROJECT_URL">
-    <strong>🏕️ Campsites</strong>
-  </a>
-  — Campsite discovery and booking experience with location-based features and a smooth mobile UI.
+  <span style="font-size:20px;">🚘</span>
+  <a href="YOUR_PROJECT_URL"><strong>Fusaty</strong></a>
+  — Full-stack mobile application powered by React Native and scalable backend services.
 </p>
 
 <p>
-  <a href="YOUR_PROJECT_URL">
-    <strong>🚗 Fusaty</strong>
-  </a>
-  — Full-stack mobile platform combining real-time features, scalable APIs, and a polished React Native interface.
-</p>
-
-<p>
-  <a href="YOUR_PROJECT_URL">
-    <strong>⚙️ Alloy Forge</strong>
-  </a>
-  — Production-focused application built with modern full-stack technologies and scalable architecture.
+  <span style="font-size:20px;">⚒️</span>
+  <a href="YOUR_PROJECT_URL"><strong>Alloy Forge</strong></a>
+  — Production-ready application focused on performance, scalability, and clean architecture.
 </p>
 
 # Experience
