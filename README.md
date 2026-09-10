@@ -108,39 +108,33 @@ Instead of filling this profile with long project descriptions, I've documented 
 # 🚀 Featured Projects
 
 <p>
-  <span style="font-size:20px;">🎥</span>
-  <a href="YOUR_PROJECT_URL"><strong>Pencil News</strong></a>
-  — News application with 100K+ downloads and a high-performance React Native experience.
+  📱 <a href="YOUR_URL"><strong>Pencil News</strong></a>
+  — 100K+ downloads • React Native • Node.js • MongoDB
 </p>
 
 <p>
-  <span style="font-size:20px;">☕</span>
-  <a href="YOUR_PROJECT_URL"><strong>Ranchers Cafe</strong></a>
-  — Restaurant ordering and customer experience built for Android and iOS.
+  ☕ <a href="YOUR_URL"><strong>Ranchers Cafe</strong></a>
+  — Restaurant platform • React Native • Firebase
 </p>
 
 <p>
-  <span style="font-size:20px;">📋</span>
-  <a href="YOUR_PROJECT_URL"><strong>Daftar Pro</strong></a>
-  — Productivity application designed around tasks, organization, and simplicity.
+  📋 <a href="YOUR_URL"><strong>Daftar Pro</strong></a>
+  — Productivity platform • React Native • Node.js
 </p>
 
 <p>
-  <span style="font-size:20px;">🏕️</span>
-  <a href="YOUR_PROJECT_URL"><strong>Campsites</strong></a>
-  — Mobile campsite discovery and booking platform with location-based experiences.
+  🏕️ <a href="YOUR_URL"><strong>Campsites</strong></a>
+  — Discovery & booking • React Native • Maps
 </p>
 
 <p>
-  <span style="font-size:20px;">🚘</span>
-  <a href="YOUR_PROJECT_URL"><strong>Fusaty</strong></a>
-  — Full-stack mobile application powered by React Native and scalable backend services.
+  🚘 <a href="YOUR_URL"><strong>Fusaty</strong></a>
+  — Full-stack mobile platform • React Native • GraphQL
 </p>
 
 <p>
-  <span style="font-size:20px;">⚒️</span>
-  <a href="YOUR_PROJECT_URL"><strong>Alloy Forge</strong></a>
-  — Production-ready application focused on performance, scalability, and clean architecture.
+  ⚒️ <a href="YOUR_URL"><strong>Alloy Forge</strong></a>
+  — Production application • React Native • TypeScript
 </p>
 
 # Experience
