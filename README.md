@@ -124,7 +124,7 @@ Instead of filling this profile with long project descriptions, I've documented 
 
 <p>
   📋 <a href="YOUR_URL"><strong>Daftar Pro</strong></a>
-  — Productivity platform • React Native • Node.js
+  — HRM Productivity platform • React Native • Node.js
 </p>
 
 <p>
