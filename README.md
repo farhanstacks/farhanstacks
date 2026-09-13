@@ -114,7 +114,7 @@ Instead of filling this profile with long project descriptions, I've documented 
 
 <p>
   ☕ <a href="YOUR_URL"><strong>Ranchers Cafe</strong></a>
-  — 100K+ downloads • Restaurant platform • React Native • Firebase
+  — 100K+ downloads • Restaurant app • React Native • Firebase
 </p>
 
 <p>
@@ -124,7 +124,7 @@ Instead of filling this profile with long project descriptions, I've documented 
 
 <p>
   📋 <a href="YOUR_URL"><strong>Daftar Pro</strong></a>
-  — HRM Productivity platform • React Native • Node.js
+  — HRM Productivity app • React Native • Node.js
 </p>
 
 <p>
@@ -134,7 +134,7 @@ Instead of filling this profile with long project descriptions, I've documented 
 
 <p>
   🚘 <a href="YOUR_URL"><strong>Fusaty</strong></a>
-  — Full-stack mobile platform • React Native • GraphQL
+  — Vendor-Client booking app • React Native • GraphQL
 </p>
 
 <p>
