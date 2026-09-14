@@ -129,7 +129,7 @@ Instead of filling this profile with long project descriptions, I've documented 
 
 <p>
   🏕️ <a href="YOUR_URL"><strong>Campsites</strong></a>
-  — Glaming & booking • React Native • Maps
+  — Glaming & booking app • React Native • Maps
 </p>
 
 <p>
@@ -139,7 +139,7 @@ Instead of filling this profile with long project descriptions, I've documented 
 
 <p>
   ⚒️ <a href="YOUR_URL"><strong>Alloy Forge</strong></a>
-  — Production application • React Native • TypeScript
+  — Production app • React Native • TypeScript
 </p>
 
 # Experience
