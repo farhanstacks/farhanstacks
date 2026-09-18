@@ -5,7 +5,7 @@
 ### Senior React Native Developer • Full Stack Mobile Engineer • AI Enthusiast
 
 <p>
-Building high-performance Android & iOS applications with React Native, scalable backend systems, and AI-powered solutions.
+Building high-performance cross-platform apps with React Native, scalable backend systems, and AI-powered solutions.
 </p>
 
 <p align="center">
