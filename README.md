@@ -43,7 +43,7 @@ Building high-performance cross-platform apps with React Native, scalable backen
 
 # About Me
 
-- 3+ years of professional software development experience.
+- 3.5 + years of professional software development experience.
 - Specialized in React Native mobile applications.
 - Built production apps for Android & iOS.
 - Applications used by **100K+ users worldwide**.
