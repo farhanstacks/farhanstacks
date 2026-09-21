@@ -2,7 +2,7 @@
 
 # Hi, I'm **Muhammad Farhan Shaukat**
 
-### Senior React Native Developer • Full Stack Mobile Engineer • AI Enthusiast
+### Senior React Native Full Stack Developer
 
 <p>
 Building high-performance cross-platform apps with React Native, scalable backend systems, and AI-powered solutions.
