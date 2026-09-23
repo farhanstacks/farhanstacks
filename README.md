@@ -129,7 +129,7 @@ Instead of filling this profile with long project descriptions, I've documented 
 
 <p>
   🏕️ <a href="YOUR_URL"><strong>Campsites</strong></a>
-  — Glaming & booking app • React Native • Maps
+  — Glaming & Booking app • React Native • Maps
 </p>
 
 <p>
