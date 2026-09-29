@@ -5,7 +5,7 @@
 ### Senior React Native & Full Stack Developer
 
 <p>
-Building high-performance cross-platform apps with React Native, scalable backend systems, and AI-powered solutions.
+Building high-performance cross-platform apps with React Native, scalable backend systems, and AI-powered solutions and applications.
 </p>
 
 <p align="center">
