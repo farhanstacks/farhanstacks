@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm **Muhammad Farhan**
+# Hi, I'm **Farhan**
 
 ### Senior React Native & Full Stack Developer
 
