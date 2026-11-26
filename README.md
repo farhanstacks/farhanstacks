@@ -46,7 +46,7 @@ My goal is to leverage my expertise to create innovative, high-performance solut
 ### 📰 Pencil News
 **100K+ downloads** • React Native • Node.js • MongoDB
 
-A modern news application built with React Native, Node.js and MongoDB.
+A modern news application that delivers news content through a mobile-friendly experience, built with React Native, Node.js, and MongoDB.
 
 <p>
 <a href="https://apps.apple.com/in/app/pencil-news/id6479809178">
@@ -63,7 +63,7 @@ A modern news application built with React Native, Node.js and MongoDB.
 ### 🍔 Ranchers Cafe
 **100K+ downloads** • Restaurant App • React Native • Firebase
 
-A restaurant application built with React Native and Firebase.
+A restaurant app that provides customers with a convenient way to explore the menu and access restaurant services.
 
 <p>
 <a href="https://apps.apple.com/pk/app/ranchers-cafe/id6447162082">
@@ -80,7 +80,7 @@ A restaurant application built with React Native and Firebase.
 ### 🏕️ Campsites
 **100K+ downloads** • Discovery & Booking • React Native • Maps
 
-A camping discovery and booking application built with React Native and maps integration.
+A camping discovery and booking app that helps users explore campsites and find places for their next outdoor adventure.
 
 <p>
 <a href="https://apps.apple.com/no/app/campio-find-book-camping/id1521132128">
@@ -97,7 +97,7 @@ A camping discovery and booking application built with React Native and maps int
 ### 👥 Daftar Pro
 **HRM Productivity App** • React Native • Node.js
 
-An HRM and productivity application built with React Native and Node.js.
+An HRM and productivity application designed to support workforce management and streamline everyday organizational tasks.
 
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.daftarpro.app">
@@ -110,7 +110,7 @@ An HRM and productivity application built with React Native and Node.js.
 ### ⚙️ Alloy Forge
 **Production App** • React Native • TypeScript
 
-A production application built with React Native and TypeScript.
+A production-focused mobile application built to support workflows and day-to-day operations.
 
 <p>
 <a href="https://apps.apple.com/au/app/alloy-forge/id6756784079">
@@ -126,12 +126,9 @@ A production application built with React Native and TypeScript.
 
 ## 📱 Other Projects
 
-### 🤝 Fusaty
-**Vendor-Client Booking App** • React Native • GraphQL
-
-A vendor-client booking application built with React Native and GraphQL.
-
 ### Personafolio Mobile and Web Application
+
+A portfolio platform for presenting personal work, projects, and professional information across mobile and web.
 
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.personafolio&hl=en">
@@ -140,6 +137,8 @@ A vendor-client booking application built with React Native and GraphQL.
 </p>
 
 ### Trace Quest
+
+A mobile application built around quest-based activities and tracking progress through different tasks.
 
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.tracequest.app&hl=en">
