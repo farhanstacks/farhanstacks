@@ -48,14 +48,14 @@ My goal is to leverage my expertise to create innovative, high-performance solut
 
 A modern news application that delivers news content through a mobile-friendly experience, built with React Native, Node.js, and MongoDB.
 
-<p>
-<a href="https://apps.apple.com/in/app/pencil-news/id6479809178">
-<img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store"/>
-</a>
-&nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.pencil.news.android&hl=en">
-<img src="https://img.shields.io/badge/Get_it_on-Google_Play-black?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play"/>
-</a>
+<p align="left">
+  <a href="https://apps.apple.com/in/app/pencil-news/id6479809178">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="55"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.pencil.news.android&hl=en">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="55"/>
+  </a>
 </p>
 
 ---
@@ -65,14 +65,14 @@ A modern news application that delivers news content through a mobile-friendly e
 
 A restaurant app that provides customers with a convenient way to explore the menu and access restaurant services.
 
-<p>
-<a href="https://apps.apple.com/pk/app/ranchers-cafe/id6447162082">
-<img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store"/>
-</a>
-&nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.ranchers.customer&hl=en">
-<img src="https://img.shields.io/badge/Get_it_on-Google_Play-black?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play"/>
-</a>
+<p align="left">
+  <a href="https://apps.apple.com/pk/app/ranchers-cafe/id6447162082">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="55"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.ranchers.customer&hl=en">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="55"/>
+  </a>
 </p>
 
 ---
@@ -82,14 +82,14 @@ A restaurant app that provides customers with a convenient way to explore the me
 
 A camping discovery and booking app that helps users explore campsites and find places for their next outdoor adventure.
 
-<p>
-<a href="https://apps.apple.com/no/app/campio-find-book-camping/id1521132128">
-<img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store"/>
-</a>
-&nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.campio.campioapp">
-<img src="https://img.shields.io/badge/Get_it_on-Google_Play-black?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play"/>
-</a>
+<p align="left">
+  <a href="https://apps.apple.com/no/app/campio-find-book-camping/id1521132128">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="55"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.campio.campioapp">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="55"/>
+  </a>
 </p>
 
 ---
@@ -99,10 +99,10 @@ A camping discovery and booking app that helps users explore campsites and find 
 
 An HRM and productivity application designed to support workforce management and streamline everyday organizational tasks.
 
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.daftarpro.app">
-<img src="https://img.shields.io/badge/Get_it_on-Google_Play-black?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play"/>
-</a>
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.daftarpro.app">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="55"/>
+  </a>
 </p>
 
 ---
@@ -112,14 +112,14 @@ An HRM and productivity application designed to support workforce management and
 
 A production-focused mobile application built to support workflows and day-to-day operations.
 
-<p>
-<a href="https://apps.apple.com/au/app/alloy-forge/id6756784079">
-<img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store"/>
-</a>
-&nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.alloyforge">
-<img src="https://img.shields.io/badge/Get_it_on-Google_Play-black?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play"/>
-</a>
+<p align="left">
+  <a href="https://apps.apple.com/au/app/alloy-forge/id6756784079">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="55"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.alloyforge">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="55"/>
+  </a>
 </p>
 
 ---
@@ -130,20 +130,20 @@ A production-focused mobile application built to support workflows and day-to-da
 
 A portfolio platform for presenting personal work, projects, and professional information across mobile and web.
 
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.personafolio&hl=en">
-<img src="https://img.shields.io/badge/Google_Play-black?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
-</a>
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.personafolio&hl=en">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="55"/>
+  </a>
 </p>
 
 ### Trace Quest
 
 A mobile application built around quest-based activities and tracking progress through different tasks.
 
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.tracequest.app&hl=en">
-<img src="https://img.shields.io/badge/Google_Play-black?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
-</a>
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.tracequest.app&hl=en">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="55"/>
+  </a>
 </p>
 
 ---
