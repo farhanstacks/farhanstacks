@@ -51,11 +51,11 @@ A modern news application that delivers news content through a mobile-friendly e
 
 <p align="left">
   <a href="https://apps.apple.com/in/app/pencil-news/id6479809178" title="Download on the App Store">
-    <img src="https://cdn.simpleicons.org/apple/000000" width="32" height="32" alt="App Store"/>
+    <img src="https://cdn.simpleicons.org/apple/FFFFFF" alt="App Store" height="32"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.pencil.news.android&hl=en" title="Get it on Google Play">
-    <img src="https://cdn.simpleicons.org/googleplay/34A853" width="32" height="32" alt="Google Play"/>
+    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Google_Play_2022_icon.svg" alt="Google Play" height="32"/>
   </a>
 </p>
 
@@ -69,11 +69,11 @@ A restaurant app that provides customers with a convenient way to explore the me
 
 <p align="left">
   <a href="https://apps.apple.com/pk/app/ranchers-cafe/id6447162082" title="Download on the App Store">
-    <img src="https://cdn.simpleicons.org/apple/000000" width="32" height="32" alt="App Store"/>
+    <img src="https://cdn.simpleicons.org/apple/FFFFFF" alt="App Store" height="32"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.ranchers.customer&hl=en" title="Get it on Google Play">
-    <img src="https://cdn.simpleicons.org/googleplay/34A853" width="32" height="32" alt="Google Play"/>
+    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Google_Play_2022_icon.svg" alt="Google Play" height="32"/>
   </a>
 </p>
 
@@ -87,11 +87,11 @@ A camping discovery and booking app that helps users explore campsites and find 
 
 <p align="left">
   <a href="https://apps.apple.com/no/app/campio-find-book-camping/id1521132128" title="Download on the App Store">
-    <img src="https://cdn.simpleicons.org/apple/000000" width="32" height="32" alt="App Store"/>
+    <img src="https://cdn.simpleicons.org/apple/FFFFFF" alt="App Store" height="32"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.campio.campioapp" title="Get it on Google Play">
-    <img src="https://cdn.simpleicons.org/googleplay/34A853" width="32" height="32" alt="Google Play"/>
+    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Google_Play_2022_icon.svg" alt="Google Play" height="32"/>
   </a>
 </p>
 
@@ -105,7 +105,7 @@ An HRM and productivity application designed to support workforce management and
 
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.daftarpro.app" title="Get it on Google Play">
-    <img src="https://cdn.simpleicons.org/googleplay/34A853" width="32" height="32" alt="Google Play"/>
+    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Google_Play_2022_icon.svg" alt="Google Play" height="32"/>
   </a>
 </p>
 
@@ -119,11 +119,11 @@ A production-focused mobile application built to support workflows and day-to-da
 
 <p align="left">
   <a href="https://apps.apple.com/au/app/alloy-forge/id6756784079" title="Download on the App Store">
-    <img src="https://cdn.simpleicons.org/apple/000000" width="32" height="32" alt="App Store"/>
+    <img src="https://cdn.simpleicons.org/apple/FFFFFF" alt="App Store" height="32"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.alloyforge" title="Get it on Google Play">
-    <img src="https://cdn.simpleicons.org/googleplay/34A853" width="32" height="32" alt="Google Play"/>
+    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Google_Play_2022_icon.svg" alt="Google Play" height="32"/>
   </a>
 </p>
 
@@ -137,7 +137,7 @@ A portfolio platform for presenting personal work, projects, and professional in
 
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.personafolio&hl=en" title="Get it on Google Play">
-    <img src="https://cdn.simpleicons.org/googleplay/34A853" width="32" height="32" alt="Google Play"/>
+    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Google_Play_2022_icon.svg" alt="Google Play" height="32"/>
   </a>
 </p>
 
@@ -147,7 +147,7 @@ A mobile application built around quest-based activities and tracking progress t
 
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.tracequest.app&hl=en" title="Get it on Google Play">
-    <img src="https://cdn.simpleicons.org/googleplay/34A853" width="32" height="32" alt="Google Play"/>
+    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Google_Play_2022_icon.svg" alt="Google Play" height="32"/>
   </a>
 </p>
 
