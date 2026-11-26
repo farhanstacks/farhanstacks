@@ -107,13 +107,6 @@ An HRM and productivity application built with React Native and Node.js.
 
 ---
 
-### 🤝 Fusaty
-**Vendor-Client Booking App** • React Native • GraphQL
-
-A vendor-client booking application built with React Native and GraphQL.
-
----
-
 ### ⚙️ Alloy Forge
 **Production App** • React Native • TypeScript
 
@@ -131,31 +124,12 @@ A production application built with React Native and TypeScript.
 
 ---
 
-## 📱 More Projects
+## 📱 Other Projects
 
-### Teresa By Just
+### 🤝 Fusaty
+**Vendor-Client Booking App** • React Native • GraphQL
 
-<p>
-<a href="https://apps.apple.com/us/app/teresa-by-just/id6473748151">
-<img src="https://img.shields.io/badge/App_Store-black?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/>
-</a>
-&nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.just.teresa">
-<img src="https://img.shields.io/badge/Google_Play-black?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
-</a>
-</p>
-
-### Next Flag
-
-<p>
-<a href="https://apps.apple.com/us/app/nextflag/id1522424387">
-<img src="https://img.shields.io/badge/App_Store-black?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/>
-</a>
-&nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.nextflag.nextflagapp&hl=en">
-<img src="https://img.shields.io/badge/Google_Play-black?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
-</a>
-</p>
+A vendor-client booking application built with React Native and GraphQL.
 
 ### Personafolio Mobile and Web Application
 
