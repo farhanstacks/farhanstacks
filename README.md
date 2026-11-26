@@ -108,39 +108,84 @@ Instead of filling this profile with long project descriptions, I've documented 
 # 🚀 Featured Projects
 
 <p>
-  📱 <a href="YOUR_URL"><strong>Pencil News</strong></a>
-  — 100K+ downloads • React Native • Node.js • MongoDB
+  📱 <strong>Pencil News</strong><br/>
+  <a href="https://apps.apple.com/in/app/pencil-news/id6479809178">
+    <img src="https://img.shields.io/badge/_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.pencil.news.android&hl=en">
+    <img src="https://img.shields.io/badge/▶_Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
+  </a>
+  <br/>
+  100K+ downloads • React Native • Node.js • MongoDB
 </p>
 
 <p>
-  ☕ <a href="YOUR_URL"><strong>Ranchers Cafe</strong></a>
-  — 100K+ downloads • Restaurant app • React Native • Firebase
+  ☕ <strong>Ranchers Cafe</strong><br/>
+  <a href="https://apps.apple.com/pk/app/ranchers-cafe/id6447162082">
+    <img src="https://img.shields.io/badge/_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.ranchers.customer&hl=en">
+    <img src="https://img.shields.io/badge/▶_Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
+  </a>
+  <br/>
+  100K+ downloads • Restaurant app • React Native • Firebase
 </p>
 
 <p>
-  🏕️ <a href="YOUR_URL"><strong>Campsites</strong></a>
-  — 100K+ downloads • Discovery & booking • React Native • Maps
+  🏕️ <strong>Campsites</strong><br/>
+  <a href="https://apps.apple.com/no/app/campio-find-book-camping/id1521132128">
+    <img src="https://img.shields.io/badge/_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.campio.campioapp">
+    <img src="https://img.shields.io/badge/▶_Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
+  </a>
+  <br/>
+  100K+ downloads • Discovery & booking • React Native • Maps
 </p>
 
 <p>
-  📋 <a href="YOUR_URL"><strong>Daftar Pro</strong></a>
-  — HRM Productivity app • React Native • Node.js
+  📋 <strong>Daftar Pro</strong><br/>
+  <a href="https://play.google.com/store/apps/details?id=com.daftarpro.app">
+    <img src="https://img.shields.io/badge/▶_Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
+  </a>
+  <br/>
+  HRM Productivity app • React Native • Node.js
 </p>
 
 <p>
-  🏕️ <a href="YOUR_URL"><strong>Campsites</strong></a>
-  — Glaming & Booking app • React Native • Maps
+  🏕️ <strong>Campsites</strong><br/>
+  <a href="https://apps.apple.com/no/app/campio-find-book-camping/id1521132128">
+    <img src="https://img.shields.io/badge/_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.campio.campioapp">
+    <img src="https://img.shields.io/badge/▶_Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
+  </a>
+  <br/>
+  Glamping & Booking app • React Native • Maps
 </p>
 
 <p>
-  🚘 <a href="YOUR_URL"><strong>Fusaty</strong></a>
-  — Vendor-Client booking app • React Native • GraphQL
+  🚘 <strong>Fusaty</strong><br/>
+  <a href="YOUR_URL">
+    <img src="https://img.shields.io/badge/🌐_Project-2563EB?style=for-the-badge" />
+  </a>
+  <br/>
+  Vendor-Client booking app • React Native • GraphQL
 </p>
 
 <p>
-  ⚒️ <a href="YOUR_URL"><strong>Alloy Forge</strong></a>
-  — Production app • React Native • TypeScript
+  ⚒️ <strong>Alloy Forge</strong><br/>
+  <a href="https://apps.apple.com/au/app/alloy-forge/id6756784079">
+    <img src="https://img.shields.io/badge/_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.alloyforge">
+    <img src="https://img.shields.io/badge/▶_Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
+  </a>
+  <br/>
+  Production app • React Native • TypeScript
 </p>
+
+---
 
 # Experience
 
