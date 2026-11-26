@@ -44,81 +44,86 @@ My goal is to leverage my expertise to create innovative, high-performance solut
 # 🚀 Featured Projects
 
 ### 📰 Pencil News
+
 **100K+ downloads** • React Native • Node.js • MongoDB
 
 A modern news application that delivers news content through a mobile-friendly experience, built with React Native, Node.js, and MongoDB.
 
 <p align="left">
   <a href="https://apps.apple.com/in/app/pencil-news/id6479809178">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="55"/>
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="180" height="56"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.pencil.news.android&hl=en">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="55"/>
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="180" height="56"/>
   </a>
 </p>
 
 ---
 
 ### 🍔 Ranchers Cafe
+
 **100K+ downloads** • Restaurant App • React Native • Firebase
 
 A restaurant app that provides customers with a convenient way to explore the menu and access restaurant services.
 
 <p align="left">
   <a href="https://apps.apple.com/pk/app/ranchers-cafe/id6447162082">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="55"/>
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="180" height="56"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.ranchers.customer&hl=en">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="55"/>
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="180" height="56"/>
   </a>
 </p>
 
 ---
 
 ### 🏕️ Campsites
+
 **100K+ downloads** • Discovery & Booking • React Native • Maps
 
 A camping discovery and booking app that helps users explore campsites and find places for their next outdoor adventure.
 
 <p align="left">
   <a href="https://apps.apple.com/no/app/campio-find-book-camping/id1521132128">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="55"/>
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="180" height="56"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.campio.campioapp">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="55"/>
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="180" height="56"/>
   </a>
 </p>
 
 ---
 
 ### 👥 Daftar Pro
+
 **HRM Productivity App** • React Native • Node.js
 
 An HRM and productivity application designed to support workforce management and streamline everyday organizational tasks.
 
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.daftarpro.app">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="55"/>
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="180" height="56"/>
   </a>
 </p>
 
 ---
 
 ### ⚙️ Alloy Forge
+
 **Production App** • React Native • TypeScript
 
 A production-focused mobile application built to support workflows and day-to-day operations.
 
 <p align="left">
   <a href="https://apps.apple.com/au/app/alloy-forge/id6756784079">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="55"/>
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="180" height="56"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.alloyforge">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="55"/>
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="180" height="56"/>
   </a>
 </p>
 
@@ -132,7 +137,7 @@ A portfolio platform for presenting personal work, projects, and professional in
 
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.personafolio&hl=en">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="55"/>
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="180" height="56"/>
   </a>
 </p>
 
@@ -142,7 +147,7 @@ A mobile application built around quest-based activities and tracking progress t
 
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.tracequest.app&hl=en">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="55"/>
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="180" height="56"/>
   </a>
 </p>
 
