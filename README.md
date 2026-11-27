@@ -1,9 +1,6 @@
 # 👋 Hi, I’m Farhan
 
 ### Mid Senior React Native & Full Stack Developer
-
-> Building modern, scalable mobile & web applications with **React Native, React, Node.js, and cloud technologies.**
-
 <p align="left">
   <a href="https://farhanstacks.vercel.app">
     <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-farhanstacks.vercel.app-0d8bd9?style=for-the-badge&labelColor=555555" alt="Portfolio" />
