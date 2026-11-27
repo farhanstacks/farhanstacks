@@ -165,7 +165,13 @@ A mobile application built around quest-based activities and tracking progress t
 
 ### 💼 Experience
 
-<!-- KEEP YOUR ORIGINAL EXPERIENCE SECTION HERE -->
+| Period | Role | Company |
+|---|---|---|
+| **05/2023 - Present** | React Native & Full Stack Developer | **Fiverr** |
+| **01/2025 - 06/2025** | React Native Developer | **DevGate** |
+| **06/2024 - 12/2024** | Cross-Platform App Developer | **Codistan Ventures** |
+| **10/2023 - 12/2024** | Mobile App Developer | **Smart Kalls Inc** |
+| **07/2022 - 08/2023** | React Native Full Stack Developer | **Gameotivity LLC** |
 
 ---
 
