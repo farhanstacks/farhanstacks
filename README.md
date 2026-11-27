@@ -1,13 +1,15 @@
 # 👋 Hi, I’m Farhan
 
-### Mid Senior React Native & Full Stack Developer
-<p align="left">
+<h3 align="center">Mid Senior React Native & Full Stack Developer</h3><p align="center">
   <a href="https://farhanstacks.vercel.app">
     <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-farhanstacks.vercel.app-0d8bd9?style=for-the-badge&labelColor=555555" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/farhanstacks/">
     <img src="https://img.shields.io/badge/💼%20LINKEDIN-Farhan%20Shaukat-0d8bd9?style=for-the-badge&labelColor=555555" alt="LinkedIn" />
   </a>
+</p>
+
+<p align="center">
   <a href="mailto:farhanstacks1@gmail.com">
     <img src="https://img.shields.io/badge/✉️%20EMAIL-farhanstacks1%40gmail.com-e04444?style=for-the-badge&labelColor=555555" alt="Email" />
   </a>
